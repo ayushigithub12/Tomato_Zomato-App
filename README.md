@@ -1,4 +1,4 @@
-# 🍅 Tomato – Zomato Clone (LLD Based)
+# 🍅 Tomato – Zomato App (LLD Based)
 
 ## 📌 Overview
 **Tomato** is a **Low-Level Design (LLD)** implementation of a food delivery application inspired by **Zomato**.  
